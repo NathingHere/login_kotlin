@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">login_kotlin</string>
+
+    <string name="login_title">Login</string>
+    <string name="login_username">Usuario</string>
+    <string name="login_password">Contraseña</string>
+    <string name="login_forgot_pass">¿Olvidaste la contraseña?</string>
+    <string name="login_button">Login</string>
+
+    <string name="login_if_help">¿Necesitas ayuda?</string>
+    <string name="login_call_help">Llámanos</string>
+
+    <string name="menus">Menús</string>
+    <string name="carta">Carta</string>
+    <string name="bebidas">Bebidas</string>
+    <string name="reservas">Reservas</string>
+    <string name="galeria">Galería</string>
+    <string name="opiniones">Opiniones</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
